@@ -5,4 +5,4 @@ Each section is divided up by chapters/testout numbers. I will be updating this 
 If I find something I consider basic information, I may not include it in the notes. Add what you need but I covered most of it all.
 
 
-Currently covers Chapters 1-4, Testout 1/2 and most of 9
+Currently around 290 cards that cover Chapters 1-4, Testout 1/2 and most of 9
