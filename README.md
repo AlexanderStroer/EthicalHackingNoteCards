@@ -1,4 +1,4 @@
-# EthicalHackingNotesCards
+# EthicalHackingNoteCards
 This is an Anki deck, you'll need Anki to use these cards
 
 # Download the CEH.apkg file for the entire, most recent, file or download each chapter individually
